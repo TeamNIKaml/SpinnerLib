@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="spinner_activated_true">#739a5b</color>
+    <color name="spinner_activated_false">#d9e5d1</color>
+    <color name="textColor">#000000</color>
+    
+</resources>
